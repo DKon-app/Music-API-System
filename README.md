@@ -1,2 +1,4 @@
 # Music-API-System
-DKon Music Free Api System
+**DKon.app Music API for listening to and downloading music**
+
+more info: https://DKon.app/dev
